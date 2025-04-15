@@ -1,0 +1,26 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos de ambiente
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos do Jupyter e VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.swp
+*.bak
+*.tmp
